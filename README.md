@@ -74,7 +74,8 @@ print("----------------------------------------------------------------------")
 
 ## Output
 
-![Screenshot 2024-12-21 140654](https://github.com/user-attachments/assets/c0c44635-1660-41cb-8e3d-2a8090d1f5f6)
+![Screenshot 2024-12-21 144614](https://github.com/user-attachments/assets/336d8a26-9f25-4303-b4a6-d30fcd5adc76)
+
 
 
 ## Result
